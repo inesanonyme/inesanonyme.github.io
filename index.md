@@ -8,18 +8,18 @@ crêpe
 
 -sucre
  
-- nutella[noir ,blanc , au lait]
+-nutella[noir ,blanc , au lait]
  
-- beurre de cacahuette
+-beurre de cacahuette
 
-- sirop d´herable
+-sirop d´herable
 
-- confiture[abico,figue]
+-confiture[abico,figue]
 
-- banane , chocolat
+-banane , chocolat
 
-- miel
+ -miel
 
-- beurre
+  -beurre
 
-- citron
+ -citron
